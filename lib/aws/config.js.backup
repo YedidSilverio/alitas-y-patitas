@@ -1,0 +1,20 @@
+/*import { Amplify } from 'aws-amplify';
+
+const awsConfig = {
+  Auth: {
+    region: process.env.AWS_REGION,
+    userPoolId: process.env.AWS_COGNITO_USER_POOL_ID,
+    userPoolWebClientId: process.env.AWS_COGNITO_CLIENT_ID,
+  },
+  Storage: {
+    AWSS3: {
+      bucket: process.env.AWS_S3_BUCKET,
+      region: process.env.AWS_REGION,
+    }
+  }
+};
+
+Amplify.configure(awsConfig);
+
+export default awsConfig;*/
+
